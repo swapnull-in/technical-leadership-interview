@@ -1,3 +1,3 @@
-# technical-leadership-interview-questions
+# Technical Leadership Interview Questions
 
 
