@@ -42,7 +42,7 @@ Here are some potential questions you might be asked to assess your technical le
 
 - [Leadership Frameworks ](https://www.notion.so/Leadership-Frameworks-1ea08ef9eb914e948d8b43ceea218dbb?pvs=21)
 
-[**Q: Leadership and Team Management**](https://www.notion.so/Q-Leadership-and-Team-Management-23c9a3283ed747d29a331f3095bdf0fc?pvs=21)
+- [**Q: Leadership and Team Management**](https://www.notion.so/Q-Leadership-and-Team-Management-23c9a3283ed747d29a331f3095bdf0fc?pvs=21)
 
 **Mentorship and Team Development**
 
@@ -52,7 +52,7 @@ Here are some potential questions you might be asked to assess your technical le
 
 - [How do you encourage a growth mindset within your engineering team?](https://www.notion.so/How-do-you-encourage-a-growth-mindset-within-your-engineering-team-635eaff70c6c46a8afdecb312d3a6fa4?pvs=21)
 
-[**Q : Mentorship and Team Development**](https://www.notion.so/Q-Mentorship-and-Team-Development-57028c2c9c7444c5949ed55e90ffb101?pvs=21)
+- [**Q : Mentorship and Team Development**](https://www.notion.so/Q-Mentorship-and-Team-Development-57028c2c9c7444c5949ed55e90ffb101?pvs=21)
 
 **Communication and Collaboration**
 
