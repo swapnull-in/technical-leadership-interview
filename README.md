@@ -13,15 +13,15 @@ Here are some potential questions you might be asked to assess your technical le
     - The focus might shift to how you stay up-to-date with advanced topics in your field.
     - They might ask about your experience with emerging technologies, your approach to evaluating new tech for potential adoption, & how you balance staying current with the demands of your current role.
 
-[Describe a complex technical challenge your team faced. How did you approach it, and what was the outcome?](https://www.notion.so/Describe-a-complex-technical-challenge-your-team-faced-How-did-you-approach-it-and-what-was-the-ou-01123657107e43a68bf29ce46b9c4842?pvs=21)
+[Describe a complex technical challenge your team faced. How did you approach it, and what was the outcome?](https://github.com/swapnull-in/technical-leadership-interview/blob/main/Technical%20Expertise%20and%20Problem-Solving/Describe_a_complex_technical_challenge_your_team_faced._how_did_you_approach_it_and_what_was_the_outcome.pdf)
 
-[How do you stay up-to-date on the latest advancements in your technical field?](https://www.notion.so/How-do-you-stay-up-to-date-on-the-latest-advancements-in-your-technical-field-5ad43a4df5834ca29f1ea432aa6da737?pvs=21)
+[How do you stay up-to-date on the latest advancements in your technical field?](https://github.com/swapnull-in/technical-leadership-interview/blob/main/Technical%20Expertise%20and%20Problem-Solving/How_do_you_stay_up-to-date_on_the_latest_advancements_in_your_technical_field.pdf)
 
-[Explain a technical concept to someone with no tech background.](https://www.notion.so/Explain-a-technical-concept-to-someone-with-no-tech-background-0d92b80c28914a958c9735711fcfa953?pvs=21)
+[Explain a technical concept to someone with no tech background.](https://github.com/swapnull-in/technical-leadership-interview/blob/main/Technical%20Expertise%20and%20Problem-Solving/Explain_a_technical_concept_to_someone_with_no_tech_background..pdf)
 
-[You're presented with a hypothetical technical problem relevant to the position. How would you go about diagnosing and solving it?](https://www.notion.so/You-re-presented-with-a-hypothetical-technical-problem-relevant-to-the-position-How-would-you-go-ab-bd0ef4728d26461b99d6a733bdef2752?pvs=21)
+[You're presented with a hypothetical technical problem relevant to the position. How would you go about diagnosing and solving it?](https://github.com/swapnull-in/technical-leadership-interview/blob/main/Technical%20Expertise%20and%20Problem-Solving/Youre_presented_with_a_hypothetical_technical_problem_relevant_to_the_position._how_would_you_go_about_diagnosing_and_solving_it.pdf)
 
-[You need to make a technical decision with significant implications for the project. How would you approach this, and what factors would you consider?](https://www.notion.so/You-need-to-make-a-technical-decision-with-significant-implications-for-the-project-How-would-you-a-58990e732e334021a90682bca37fe4ea?pvs=21)
+[You need to make a technical decision with significant implications for the project. How would you approach this, and what factors would you consider?](https://github.com/swapnull-in/technical-leadership-interview/blob/main/Technical%20Expertise%20and%20Problem-Solving/You_need_to_make_a_technical_decision_with_significant_implications_for_the_project._how_would_you_approach_this_and_what_factors_would_you_consider.pdf)
 
 **Leadership and Team Management**
 
