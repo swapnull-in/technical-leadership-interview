@@ -73,7 +73,7 @@ Here are some potential questions you might be asked to assess your technical le
 
 - [How do you manage remote team members or geographically dispersed teams?](https://www.notion.so/How-do-you-manage-remote-team-members-or-geographically-dispersed-teams-ea1bca00b61449928c2e7ce305f7dc4f?pvs=21)
 
-[**Info: Communication and Collaboration**](https://www.notion.so/Info-Communication-and-Collaboration-e6a0c9676c124ac48bda79822fb2bafa?pvs=21)
+- [**Info: Communication and Collaboration**](https://www.notion.so/Info-Communication-and-Collaboration-e6a0c9676c124ac48bda79822fb2bafa?pvs=21)
 
 **Strategic Thinking and Business Acumen**
 
