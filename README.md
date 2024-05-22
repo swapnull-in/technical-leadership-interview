@@ -4,7 +4,7 @@ Conversational | 45 minutes
 
 Here are some potential questions you might be asked to assess your technical leadership skills during an engineering manager interview:
 
-**Technical Expertise and Problem-Solving**
+## **Technical Expertise and Problem-Solving** ##
 
 - **Advanced Technical Scenario:**
     - The interviewer might present a more complex technical problem relevant to the specific role or technology stack used by the company.
@@ -23,7 +23,7 @@ Here are some potential questions you might be asked to assess your technical le
 
 - [You need to make a technical decision with significant implications for the project. How would you approach this, and what factors would you consider?](https://github.com/swapnull-in/technical-leadership-interview/blob/main/Technical%20Expertise%20and%20Problem-Solving/You_need_to_make_a_technical_decision_with_significant_implications_for_the_project._how_would_you_approach_this_and_what_factors_would_you_consider.pdf)
 
-**Leadership and Team Management**
+## **Leadership and Team Management** ## 
 
 - **Handling Difficult Conversations:**
     - This could involve a scenario where you need to address a performance issue with a team member who has strong technical skills.
@@ -44,7 +44,7 @@ Here are some potential questions you might be asked to assess your technical le
 
 - [**Q: Leadership and Team Management**](https://www.notion.so/Q-Leadership-and-Team-Management-23c9a3283ed747d29a331f3095bdf0fc?pvs=21)
 
-**Mentorship and Team Development**
+## **Mentorship and Team Development** ## 
 
 - [How do you identify areas where your team members can improve their technical skills?](https://www.notion.so/How-do-you-identify-areas-where-your-team-members-can-improve-their-technical-skills-3550f9e88e9c4cb4a7d461e72bbd75f7?pvs=21)
 
@@ -54,7 +54,7 @@ Here are some potential questions you might be asked to assess your technical le
 
 - [**Q : Mentorship and Team Development**](https://www.notion.so/Q-Mentorship-and-Team-Development-57028c2c9c7444c5949ed55e90ffb101?pvs=21)
 
-**Communication and Collaboration**
+## **Communication and Collaboration** ## 
 
 - **Technical Communication to Stakeholders:**
     - The interviewer might ask you to describe a situation where you had to explain a complex technical issue to stakeholders with no technical background.
@@ -75,7 +75,7 @@ Here are some potential questions you might be asked to assess your technical le
 
 - [**Info: Communication and Collaboration**](https://www.notion.so/Info-Communication-and-Collaboration-e6a0c9676c124ac48bda79822fb2bafa?pvs=21)
 
-**Strategic Thinking and Business Acumen**
+## **Strategic Thinking and Business Acumen** ## 
 
 - **Technical Impact on Business Goals:**
     - This could involve a scenario where you need to make a technical decision that has business implications.
@@ -92,7 +92,7 @@ Here are some potential questions you might be asked to assess your technical le
 
 - [What is your experience with using data to drive technical decisions?](https://www.notion.so/What-is-your-experience-with-using-data-to-drive-technical-decisions-eac6e5350236445489779f85b47dc404?pvs=21)
 
-**Prioritisation, Delegation, and Project Management**
+## **Prioritisation, Delegation, and Project Management** ## 
 
 - [You have several competing priorities for your team. How do you decide what to focus on first?](https://www.notion.so/You-have-several-competing-priorities-for-your-team-How-do-you-decide-what-to-focus-on-first-6c3797dcc20243e880027d060b52564e?pvs=21)
 
@@ -100,7 +100,7 @@ Here are some potential questions you might be asked to assess your technical le
 
 - [How do you measure the success of a technical project you manage?](https://www.notion.so/How-do-you-measure-the-success-of-a-technical-project-you-manage-1ec7e7ab7e474a9a9773cc28b83c1c4b?pvs=21)
 
-**Technical Leadership Scenarios**
+## **Technical Leadership Scenarios** ## 
 
 - [You inherit a codebase that is poorly documented and difficult to maintain. How would you approach improving the code quality and developer experience?](https://www.notion.so/You-inherit-a-codebase-that-is-poorly-documented-and-difficult-to-maintain-How-would-you-approach-i-c62669f836de40eb968e41f7cb0cdf44?pvs=21)
 
@@ -108,15 +108,15 @@ Here are some potential questions you might be asked to assess your technical le
 
  - [Imagine a situation where you disagree with a technical decision made by a senior engineer on your team. How would you address this situation?](https://www.notion.so/Imagine-a-situation-where-you-disagree-with-a-technical-decision-made-by-a-senior-engineer-on-your-t-96051e0fadeb42a09df2cfde027ed2be?pvs=21)
 
-**Performance management techniques**
+## **Performance management techniques** ## 
 
 - [Performance management techniques to effectively evaluate, develop, and motivate team members ](https://www.notion.so/Performance-management-techniques-to-effectively-evaluate-develop-and-motivate-team-members-32bac0e75adb41e38c8b34536946f55e?pvs=21)
 
-**Building and scaling high-performing engineering teams**
+## **Building and scaling high-performing engineering teams** ## 
 
 - [As an engineering manager II, how to build and scaling high-performing engineering teams ](https://www.notion.so/As-an-engineering-manager-II-how-to-build-and-scaling-high-performing-engineering-teams-c9282eeace0a471bbb2c8ba091170f80?pvs=21)
 
-**Additional Questions**
+## **Additional Questions** ## 
 
 - [What leadership styles do you identify with, and how do you adapt your style to different situations?](https://www.notion.so/What-leadership-styles-do-you-identify-with-and-how-do-you-adapt-your-style-to-different-situations-8454f2c63cbf4beb8926267ff0538558?pvs=21)
 
